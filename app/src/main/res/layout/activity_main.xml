@@ -14,14 +14,14 @@
     <EditText
         android:layout_width="100dp"
         android:layout_height="wrap_content"
-        android:inputType="numberSigned"
+        android:inputType="numberSigned|numberDecimal"
         android:id="@+id/editText1"/>
 
     <EditText
         android:layout_width="100dp"
         android:layout_height="wrap_content"
         android:layout_alignParentRight="true"
-        android:inputType="numberSigned"
+        android:inputType="numberSigned|numberDecimal"
         android:id="@+id/editText2"/>
 
     <Button

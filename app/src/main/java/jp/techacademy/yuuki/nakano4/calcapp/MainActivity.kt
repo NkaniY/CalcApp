@@ -6,8 +6,6 @@ import android.support.design.widget.Snackbar
 import android.view.View
 import kotlinx.android.synthetic.main.activity_main.*
 import android.content.Intent
-import android.view.Menu
-import android.view.MenuItem
 
 class MainActivity : AppCompatActivity(), View.OnClickListener {
 
